@@ -7,7 +7,7 @@ I am passionate about programming and solving the problems that our technologica
 Knowledgeable in Python, Java, Linux (Bash), C, Object-oriented programming, Data Structures, and Algorithms.
 
 How to reach me:
-Email: bfernandez2025@gmail.com
+Email: bfernandez2025@gmail.com\n
 LinkedIn: [Brenden Fernandez](www.linkedin.com/in/brenden-fernandez)
 
 <!--
