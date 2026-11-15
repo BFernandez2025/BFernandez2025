@@ -2,12 +2,21 @@ Hi there👋
 My name is Brenden, a Second Year Computer Science Co-op student at Toronto Metropolitan University (formerly Ryerson).
 
 I am currently pursuing an Honours Bachelor of Science in Computer Science with a minor in Cyber Studies and 
-I am passionate about programming and solving the problems that our technological world faces every day. 
+I am passionate about programming and solving the problems that our technological world faces every day.
 
-Knowledgeable in Python, Java, Linux (Bash), C, Object-oriented programming, Data Structures, and Algorithms.
+My main interests include Cybersecurity and Machine Learning/AI development.
 
-How to reach me:
-Email: bfernandez2025@gmail.com\n
+🌱 What I'm Working On
+- Learning new programming languages
+- Understanding fundamental Cybersecurity concepts
+
+🔭 Technologies and Tools:
+**Languages:** Python, Java, C, Lisp
+**Tools:** Linux (Bash), Java Swing Library, Java Abstract Tool Kit Library
+**Concept:** Object-Oriented Programming, Data Structures and Algorithms, Cybersecurity Principles
+
+Connect With Me:
+Email: bfernandez2025@gmail.com
 LinkedIn: [Brenden Fernandez](www.linkedin.com/in/brenden-fernandez)
 
 <!--
