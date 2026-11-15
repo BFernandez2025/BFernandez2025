@@ -1,12 +1,14 @@
 ## Hi there👋
-## My name is Brenden, a Second Year Computer Science Co-op student at Toronto Metropolitan University (formerly Ryerson).
+## <small>My name is Brenden, a Second Year Computer Science Co-op student at Toronto Metropolitan University (formerly Ryerson).
 
 ## I am currently pursuing an Honours Bachelor of Science in Computer Science with a minor in Cyber Studies and 
-## I am passionate about programming and solving the problems that our technological world faces every day 
+## I am passionate about programming and solving the problems that our technological world faces every day. 
 
-## Knowledgeable in Python, Java, Linux, C, Object-oriented programming, data structures, and algorithms, with a strong understanding of cybersecurity principles and best security practices
+## Knowledgeable in Python, Java, Linux (Bash), C, Object-oriented programming, Data Structures, and Algorithms.
 
-## This is a profile where I will be uploading introductory projects I have completed, projects I am currently working on and what I have learned from these projects after completing them.
+## How to reach me:
+## Email: bfernandez2025@gmail.com
+## LinkedIn: [Brenden Fernandez](www.linkedin.com/in/brenden-fernandez)
 
 <!--
 **BFernandez2025/BFernandez2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
