@@ -7,11 +7,11 @@ I am passionate about programming and solving the problems that our technologica
 
 My main interests include Cybersecurity and Machine Learning/AI development.
 
-🌱 What I'm Working On
+🌱 **What I'm Working On**
 - Learning new programming languages
 - Understanding fundamental Cybersecurity concepts
 
-🔭 Technologies and Tools:
+🔭 **Technologies and Tools:**
 
 **Languages:** Python, Java, C, Lisp
 
@@ -19,7 +19,7 @@ My main interests include Cybersecurity and Machine Learning/AI development.
 
 **Concept:** Object-Oriented Programming, Data Structures and Algorithms, Cybersecurity Principles
 
-Connect With Me:
+**Connect With Me:**
 
 Email: bfernandez2025@gmail.com
 
